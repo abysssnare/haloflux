@@ -10,9 +10,9 @@ A full-screen, beat-driven sci-fi data visualization — a woven light-field cor
 
 > **Noncommercial use only. Any commercial use is strictly prohibited.** Free for personal study, hobby projects and private entertainment. See [License](#license).
 
-![preview](preview.png)
+**Showcase (30 s · 1080p60)** — click the cover to play. Rendered frame-perfect from `lab.html` via virtual-clock capture (zero dropped frames), music from the bundled CC0 track with a 2-second fade-out.
 
-**Showcase (30 s · 1080p60):** [showcase.mp4](showcase.mp4) — frame-perfect render of `lab.html` (virtual-clock capture, zero dropped frames), music: the bundled CC0 track with a 2-second fade-out.
+[![HALOFLUX showcase video](preview.png)](showcase.mp4)
 
 Showcase video by the original author: https://b23.tv/mBUoC3r
 
@@ -120,7 +120,9 @@ Versions published before 2026-10-26 were released under MIT; from 2026-10-26 on
 | `audio/sw421k.mp3` | 背景音乐（见「致谢」） |
 | `wallpaper/` | 动态壁纸版（Wallpaper Engine / Lively Wallpaper，见下文） |
 
-**演示视频（30 秒 · 1080p60）：** [showcase.mp4](showcase.mp4) —— 从 `lab.html` 以虚拟时钟逐帧渲染，零丢帧，配乐为仓库自带 CC0 音乐（结尾 2 秒淡出）。
+**演示视频（30 秒 · 1080p60）** —— 点击封面图播放。从 `lab.html` 以虚拟时钟逐帧渲染，零丢帧，配乐为仓库自带 CC0 音乐（结尾 2 秒淡出）。
+
+[![HALOFLUX 演示视频](preview.png)](showcase.mp4)
 
 原作者演示视频：https://b23.tv/mBUoC3r
 
