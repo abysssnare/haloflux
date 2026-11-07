@@ -4,11 +4,17 @@
 
 **English** | [中文](#中文说明)
 
+> **This fork** (maintained by [@abysssnare](https://github.com/abysssnare)) adds an in-repo **30-second 1080p60 showcase video** — [showcase.mp4](showcase.mp4) — rendered frame-perfect from `lab.html` via virtual-clock capture (zero dropped frames), with the bundled CC0 music. Upstream: [Ryder191/haloflux](https://github.com/Ryder191/haloflux).
+
 A full-screen, beat-driven sci-fi data visualization — a woven light-field core, a rotating ring of micro data panels, and layered beams bursting outward. Pure native Canvas, single HTML file, zero dependencies.
 
 > **Noncommercial use only. Any commercial use is strictly prohibited.** Free for personal study, hobby projects and private entertainment. See [License](#license).
 
 ![preview](preview.png)
+
+**Showcase (30 s · 1080p60):** [showcase.mp4](showcase.mp4) — frame-perfect render of `lab.html` (virtual-clock capture, zero dropped frames), music: the bundled CC0 track with a 2-second fade-out.
+
+Showcase video by the original author: https://b23.tv/mBUoC3r
 
 ## Files
 
@@ -17,10 +23,9 @@ A full-screen, beat-driven sci-fi data visualization — a woven light-field cor
 | `lab.html` | Desktop console edition (best at 16:9 full screen) |
 | `mobile.html` | Mobile-compatible edition (portrait/landscape adaptive, lighter particle load) |
 | `index.html` | Entry page: opens `mobile.html` on touch devices, `lab.html` otherwise |
+| `showcase.mp4` | 30-second showcase video (1080p60, rendered from `lab.html`) |
 | `audio/sw421k.mp3` | Background music (see Credits) |
 | `wallpaper/` | Wallpaper Engine / Lively Wallpaper edition (see below) |
-
-Showcase video: https://b23.tv/mBUoC3r
 
 Steam Workshop (Wallpaper Engine): pending review — meanwhile, install it manually in one minute (see [Desktop wallpaper](#desktop-wallpaper)).
 
@@ -100,6 +105,8 @@ Versions published before 2026-10-26 were released under MIT; from 2026-10-26 on
 
 一个全屏、节拍驱动的科幻数据可视化：中心是编织状的光场核心，外面是一圈由微型数据面板组成的旋转圆环，环外有多层向外迸发的光束。纯原生 Canvas，单个 HTML 文件，零依赖。
 
+> **本 Fork**（由 [@abysssnare](https://github.com/abysssnare) 维护）新增了仓库内置的 **30 秒 1080p60 展示视频** —— [showcase.mp4](showcase.mp4) —— 使用虚拟时钟从 `lab.html` 逐帧渲染（零丢帧），配乐为仓库自带 CC0 音乐。原仓库：[Ryder191/haloflux](https://github.com/Ryder191/haloflux)。
+
 > **仅限非商业用途，严格禁止任何商业用途。** 个人学习、兴趣项目、个人娱乐可免费使用。详见[许可证](#许可证)。
 
 ### 文件
@@ -109,10 +116,13 @@ Versions published before 2026-10-26 were released under MIT; from 2026-10-26 on
 | `lab.html` | 桌面控制台版（16:9 全屏效果最佳） |
 | `mobile.html` | 移动端兼容版（横竖屏自适应，粒子负载更轻） |
 | `index.html` | 入口页：触屏设备自动打开 `mobile.html`，其他设备打开 `lab.html` |
+| `showcase.mp4` | 30 秒展示视频（1080p60，从 `lab.html` 逐帧渲染） |
 | `audio/sw421k.mp3` | 背景音乐（见「致谢」） |
 | `wallpaper/` | 动态壁纸版（Wallpaper Engine / Lively Wallpaper，见下文） |
 
-演示视频：https://b23.tv/mBUoC3r
+**演示视频（30 秒 · 1080p60）：** [showcase.mp4](showcase.mp4) —— 从 `lab.html` 以虚拟时钟逐帧渲染，零丢帧，配乐为仓库自带 CC0 音乐（结尾 2 秒淡出）。
+
+原作者演示视频：https://b23.tv/mBUoC3r
 
 Steam 创意工坊（Wallpaper Engine 壁纸）：审核中。现在可以先手动安装，一分钟搞定（见[桌面动态壁纸](#桌面动态壁纸)）。
 
